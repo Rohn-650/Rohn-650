@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rohn 👋  
 
-<!--
-**Rohn-650/Rohn-650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student | RTL & FPGA Enthusiast  
 
-Here are some ideas to get you started:
+I build hardware systems using Verilog, focusing on real-time FPGA implementations and embedded interfacing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- RTL Design Verilog
+- FPGA Development (Zynq Zedboard, Vivado)  
+- Embedded Systems (ESP32,Arduino, 8051, Sensor Integration)  
+- RISC-V (Bare-metal programming, SoC fundamentals)  
+- C / C++ (Embedded), Python (Prototyping)
+
+## 📌 Interests
+- RISC-V & Open-Source Silicon  
+- FPGA-based System Design  
+- Hardware-Software Co-Design  
+- Real-Time Embedded Applications  
